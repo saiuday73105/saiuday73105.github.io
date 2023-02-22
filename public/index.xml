@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Uday Gattupalli</title>
+    <link>https://saiuday73105.github.io/</link>
+    <description>Recent content in About on Uday Gattupalli</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://saiuday73105.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://saiuday73105.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saiuday73105.github.io/experience/</guid>
+      <description>Industry Experience Sterlite Technologies Limited Jul 2021 - Jul 2022 Software Developemnt Engineer - I Designed, developed, and implemented various features of network switches (in line with the current market switches) in SONiC (an open-source network operating system developed by Microsoft and the Open Compute Project). Documented all the findings of function call flows between different containers in SONiC onto Confluence, thereby reducing the training time for new employees by 30%.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://saiuday73105.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saiuday73105.github.io/projects/</guid>
+      <description>Projects Expense Tracker Full Stack Development (MERN Stack) A cross platform app for iOS &amp;amp; android to track personal income &amp;amp; expenses hosted with the help of cloud infrastructure. Designed a MongoDB schema to store data and generate insightful reports and graphs on weekly and monthly timelines. Automated the process of adding a new transaction from transaction alert mails using Gmail APIs. Colorizing Black &amp;amp; White Images Machine Learning A project done as a part of Machine Learning course under the guidance of Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
