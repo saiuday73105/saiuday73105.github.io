@@ -7,7 +7,28 @@ title = "Experience"
 <blockquote style="padding:0;">
   <table style="border-collapse:collapse;">
     <tr>
-      <td style="font-weight:bold; border:none;">Sterlite Technologies Limited</td>
+      <td style="font-weight:bold; border:none;">Canon USA</td>
+      <td style="text-align:right; border:none;">Jun 2023 - Aug 2023</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border:none;">Software Engineer Intern</td>
+    </tr>
+  </table>
+</blockquote>
+
+- Engineered a data visualization dashboard utilizing React.js and D3.js, integrated with a Python Flask backend, to
+dynamically showcase trends in marketing notification opt-ins and product registrations for Canon’s e-commerce website. </br>
+- Devised optimized data extraction strategies to preprocess over 10 million GCP logs efficiently, employing data
+transformation techniques to ensure seamless rendering in the frontend visualizations. </br>
+- Leveraged Google Cloud Platform services for deployment, setting up a scalable infrastructure that handled heavy data
+loads effortlessly, while ensuring real-time interactivity and responsive user experience in data exploration.
+
+---
+
+<blockquote style="padding:0;">
+  <table style="border-collapse:collapse;">
+    <tr>
+      <td style="font-weight:bold; border:none;">Sterlite Technologies</td>
       <td style="text-align:right; border:none;">Jul 2021 - Jul 2022</td>
     </tr>
     <tr>
@@ -25,7 +46,7 @@ title = "Experience"
 <blockquote style="padding:0;">
   <table style="border-collapse:collapse;">
     <tr>
-      <td style="font-weight:bold; border:none;">Max Secure Software India Pvt. Ltd.</td>
+      <td style="font-weight:bold; border:none;">Max Secure Software</td>
       <td style="text-align:right; border:none;">May 2020 - Aug 2020</td>
     </tr>
     <tr>

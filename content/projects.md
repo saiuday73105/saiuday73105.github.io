@@ -4,6 +4,20 @@ title = "Projects"
 
 ## Projects
 
+#### Obesity in the US: Investigating Factors at Play
+<table style="border-collapse:collapse;">
+    <tr>
+        <td style="border:none;">Visualization Dashboard (Full-Stack)</td>
+        <!-- <td style="text-align:right; border:none;">Jun 2022 - Aug 2022</td> -->
+    </tr>
+</table>
+
+* A custom-designed interactive visual analytics dashboard for analyzing and visualizing the key factors affecting the
+obesity rate using data from across 3000+ U.S. counties. 
+* Featured in [Stars of CSE 564 Spring ’23](https://www.youtube.com/watch?v=mR_mbHdxKLo&list=PLyCRt3MN8s8MhiREiB0vV-aDhwx-huCb0&index=5) YouTube playlist by Prof. Klaus Mueller.
+
+---
+
 #### Expense Tracker
 <table style="border-collapse:collapse;">
     <tr>

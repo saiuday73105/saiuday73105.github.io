@@ -11,7 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiuday73105.github.io/experience/</guid>
-      <description>Industry Experience Sterlite Technologies Limited Jul 2021 - Jul 2022 Software Developemnt Engineer - I Designed, developed, and implemented various features of network switches (in line with the current market switches) in SONiC (an open-source network operating system developed by Microsoft and the Open Compute Project). Documented all the findings of function call flows between different containers in SONiC onto Confluence, thereby reducing the training time for new employees by 30%.</description>
+      <description>Industry Experience Canon USA Jun 2023 - Aug 2023 Software Engineer Intern Engineered a data visualization dashboard utilizing React.js and D3.js, integrated with a Python Flask backend, to dynamically showcase trends in marketing notification opt-ins and product registrations for Canon’s e-commerce website. Devised optimized data extraction strategies to preprocess over 10 million GCP logs efficiently, employing data transformation techniques to ensure seamless rendering in the frontend visualizations. Leveraged Google Cloud Platform services for deployment, setting up a scalable infrastructure that handled heavy data loads effortlessly, while ensuring real-time interactivity and responsive user experience in data exploration.</description>
     </item>
     
     <item>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiuday73105.github.io/projects/</guid>
-      <description>Projects Expense Tracker Full Stack Development (MERN Stack) A cross platform app for iOS &amp;amp; android to track personal income &amp;amp; expenses hosted with the help of cloud infrastructure. Designed a MongoDB schema to store data and generate insightful reports and graphs on weekly and monthly timelines. Automated the process of adding a new transaction from transaction alert mails using Gmail APIs. Colorizing Black &amp;amp; White Images Machine Learning A project done as a part of Machine Learning course under the guidance of Dr.</description>
+      <description>Projects Obesity in the US: Investigating Factors at Play Visualization Dashboard (Full-Stack) A custom-designed interactive visual analytics dashboard for analyzing and visualizing the key factors affecting the obesity rate using data from across 3000+ U.S. counties. Featured in Stars of CSE 564 Spring ’23 YouTube playlist by Prof. Klaus Mueller. Expense Tracker Full Stack Development (MERN Stack) A cross platform app for iOS &amp;amp; android to track personal income &amp;amp; expenses hosted with the help of cloud infrastructure.</description>
     </item>
     
   </channel>

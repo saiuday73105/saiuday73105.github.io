@@ -6,13 +6,13 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.png" alt="avatar">}}
 
-Hi! I am a Masters student at [Stony Brook Univeristy](https://cs.stonybrook.edu/) as of Spring 2023.
+Hi! I am a Master's student at [Stony Brook Univeristy](https://cs.stonybrook.edu/) as of Fall 2023.
 #### Courses: 
-* Computer Networks by Prof. Aruna Balasubramanian 
-* Artificial Intelligence by Prof. IV Ramakrishnan
-* Visualization & Visual Analytics by Prof. Klaus Mueller
-* Theory of Database Systems by Prof. Fusheng Wang
-* Logic for Computer Science by Prof. Anita Wasilewska
+* [Computer Networks](https://netsys.cs.stonybrook.edu/content/cse-534-fundamentals-computer-networks-0) by Prof. Aruna Balasubramanian 
+* [Artificial Intelligence](https://www3.cs.stonybrook.edu/~cse537/) by Prof. IV Ramakrishnan
+* [Visualization & Visual Analytics](https://www3.cs.stonybrook.edu/~mueller/teaching/cse564/index.html) by Prof. Klaus Mueller
+* [Theory of Database Systems](https://www3.cs.stonybrook.edu/~fuswang/teaching.html#:~:text=CSE532%3A%20Theory%20of%20Database%20Systems%20(Stony%20Brook%20University)) by Prof. Fusheng Wang
+* [Logic for Computer Science](https://www3.cs.stonybrook.edu/~cse541/) by Prof. Anita Wasilewska
 #### Teaching:
 * Graduate Teaching Assistant for [ISE 316](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/ISE316) Introduction to Networking under Prof. Jaala Hoblos
 
@@ -60,6 +60,7 @@ Experience in each skill: <span style="color: blue;">1 - 2 years</span>, <span s
                           <span style="color: green;">JavaScript</span> \|
                           <span style="color: green;">Flask</span> \|
                           <span style="color: blue;">React.js</span> \|
+                          <span style="color: blue;">React Native</span> \|
                           <span style="color: blue;">Node.js</span> \|
                           <span style="color: blue;">D3.js</span> \|
                           <span style="color: blue;">Django</span>
